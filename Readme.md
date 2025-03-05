@@ -1,4 +1,4 @@
-# Creating Readme through VS Code
+# Using Init Command, Creating & Mearging Branches
 Author - Kundan Kumar Jaiswal <br>
 Date - 05/03/2025
 <hr>
